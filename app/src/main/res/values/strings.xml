@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoSpinnerArrayEugenia212</string>
+    <string name="Titulo1">Bienvenido</string>
+    <string name="Titulo2">Grupo 7T11</string>
+    <string name="Titulo3">Inserta un color</string>
+    <string name="Titulo4">Menú de opciones</string>
+    <string name="Titulo5">\?</string>
+    <string name="Boton1">Agregar un color</string>
+    <string name="boton2">Mostrar colores</string>
+    <string name="textplain">Nombre Color</string>
+    <string name="boton3">Agregar color</string>
+    <string name="boton4">Volver a menu principal</string>
+    <string name="Titulo6">Se muestran colores agrgados</string>
+</resources>
